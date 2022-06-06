@@ -16,7 +16,7 @@ Install required packages and node_modules
 ```
 npm install
 ```
-Run json-server
+In another terminal in the same directory, run json-server
 ```
 npx json-server --watch data/db.json --port 8000
 ```
