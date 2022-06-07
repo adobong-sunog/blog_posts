@@ -2,7 +2,7 @@
 > Status: Complete
 
 ## Description
-* A small project that allows you to post and delete your own blogs. Made specifically to learn more about the [ReactJS](https://reactjs.org) library.
+* A small project that allows you to post and delete blogs. Made specifically to learn more about the [ReactJS](https://reactjs.org) library.
 
 ## Setup
 > [NodeJS](https://nodejs.org) must be installed on your computer.
