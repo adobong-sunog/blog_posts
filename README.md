@@ -9,7 +9,7 @@
 
 Clone this repository
 ```bash
-git clone https://github.com/AncientSoup/blog_posts
+git clone https://github.com/adobong-sunog/blog_posts
 cd blog_posts
 ```
 Install required packages and node_modules
